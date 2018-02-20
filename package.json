@@ -1,0 +1,30 @@
+{
+  "name": "pubsub-nodejs-example",
+  "version": "1.0.0",
+  "description": "A little pubsub example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baquiax/pubsub-nodejs-example.git"
+  },
+  "keywords": [
+    "pubsub",
+    "nodejs"
+  ],
+  "author": "baquiax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baquiax/pubsub-nodejs-example/issues"
+  },
+  "homepage": "https://github.com/baquiax/pubsub-nodejs-example#readme",
+  "dependencies": {
+    "pubsub-js": "1.6.0"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
